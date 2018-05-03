@@ -1,4 +1,4 @@
-# finance-awesome
+# Awesome Finance
 A curated list for finance studies, university edition
 # Table of Contents
 * Principles
